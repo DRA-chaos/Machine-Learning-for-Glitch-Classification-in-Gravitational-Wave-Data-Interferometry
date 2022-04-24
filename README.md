@@ -62,3 +62,11 @@ Listed Color Map for Classification performed on data from Livingston after one 
 ![image](https://user-images.githubusercontent.com/68393451/164992149-d5d9e71e-fb13-43be-bfda-ccf89cbba6ed.png) <br/>
 
 Distribution of Glitches
+
+
+
+## References 
+
+1. ![https://bigdata.oden.utexas.edu/project/divide-conquer-methods-for-big-data-analytics/](https://bigdata.oden.utexas.edu/project/divide-conquer-methods-for-big-data-analytics/)
+2. ![https://medium.com/@kohlishivam5522/understanding-a-classification-report-for-your-machine-learning-model-88815e2ce397#:~:text=The%20F1%20score%20is%20a,and%20recall%20into%20their%20computation.](https://medium.com/@kohlishivam5522/understanding-a-classification-report-for-your-machine-learning-model-88815e2ce397#:~:text=The%20F1%20score%20is%20a,and%20recall%20into%20their%20computation.)
+3. ![https://www.ams.org/publications/journals/notices/201707/rnoti-p684.pdf](https://www.ams.org/publications/journals/notices/201707/rnoti-p684.pdf)
