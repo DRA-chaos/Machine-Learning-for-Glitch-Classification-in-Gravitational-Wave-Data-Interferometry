@@ -1,0 +1,30 @@
+Train accuracy: 1.00, Test accuracy: 0.87
+                     precision    recall  f1-score   support
+
+          1080Lines       0.00      0.00      0.00         1
+        1400Ripples       0.00      0.00      0.00        15
+     Air_Compressor       0.00      0.00      0.00        10
+               Blip       0.25      0.27      0.26       317
+              Chirp       0.00      0.00      0.00        11
+     Extremely_Loud       0.06      0.06      0.06        81
+              Helix       0.02      0.02      0.02        49
+           Koi_Fish       0.16      0.17      0.16       127
+   Light_Modulation       0.04      0.03      0.03        72
+Low_Frequency_Burst       0.03      0.03      0.03        95
+Low_Frequency_Lines       0.10      0.10      0.10        89
+          No_Glitch       0.00      0.00      0.00         7
+  None_of_the_Above       0.05      0.04      0.04        27
+       Paired_Doves       0.00      0.00      0.00         5
+         Power_Line       0.05      0.05      0.05        81
+    Repeating_Blips       0.00      0.00      0.00        16
+    Scattered_Light       0.01      0.01      0.01        77
+           Scratchy       0.02      0.02      0.02        48
+              Tomte       0.06      0.06      0.06        17
+        Violin_Mode       0.00      0.00      0.00        25
+     Wandering_Line       0.00      0.00      0.00         4
+            Whistle       0.04      0.04      0.04        26
+
+           accuracy                           0.11      1200
+          macro avg       0.04      0.04      0.04      1200
+       weighted avg       0.11      0.11      0.11      1200
+
