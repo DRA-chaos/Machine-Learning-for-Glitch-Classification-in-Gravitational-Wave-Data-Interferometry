@@ -1,5 +1,8 @@
 # Machine-Learning-for-Glitch-Classification-in-Gravitational-Wave-Data-Analysis
 
+To cite this work please refer to ![link](https://ieeexplore.ieee.org/abstract/document/9971811)
+or use the following : R. Abani, "Glitch Classification for Gravitational Wave Interferometry Using Machine Learning," 2022 IEEE 3rd Global Conference for Advancement in Technology (GCAT), Bangalore, India, 2022, pp. 1-3, doi: 10.1109/GCAT55367.2022.9971811.
+
 This project is a part of the coursework pertaining to ECS 308 Data Science and Machine Learning taught by Dr Tanmay Basu, mentored by Mr. Vishisht Sharma at the 6th semester in IISER Bhopal.
 
 ## Introduction
